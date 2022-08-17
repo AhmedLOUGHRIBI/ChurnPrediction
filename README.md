@@ -2,7 +2,7 @@
 Predict future churners
 
 ## Introduction:
-In this project, we aim to detect future churner (peoples who won’t make any further orders in the next 3 months).  
+In this project, we aim to detect future churner (clients who won’t make any further orders in the next 3 months).  
 To do so, we will use a dataset containing orders of clients in the last 2 years.  
 
 <img width="481" alt="1" src="https://user-images.githubusercontent.com/55580735/182121010-ec85c9cd-f286-4298-b1e3-83d935b67ab1.png">  
